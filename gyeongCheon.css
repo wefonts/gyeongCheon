@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "gyeongCheon";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/gyeongCheon/gyeongCheon.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/gyeongCheon/gyeongCheon.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/gyeongCheon/gyeongCheon.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/gyeongCheon/gyeongCheon.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/gyeongCheon/gyeongCheon.ttf") format("truetype");
+    font-display: swap;
+}
+.gyeongCheon {
+    font-family: "gyeongCheon";
+}
